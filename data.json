@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Kartik Kumar",
+        "age": 21,
+        "email": "kartik82a@gmail.com",
+        "pin": "7417",
+        "account_number": "8270967806",
+        "balance": 31000
+    },
+    {
+        "name": "Kaif Malik",
+        "age": 22,
+        "email": "kaif@gmail.com",
+        "pin": "8126",
+        "account_number": "0390009597",
+        "balance": 4000
+    },
+    {
+        "name": "Rajat Verma",
+        "age": 23,
+        "email": "rajat@gmail.com",
+        "pin": "9988",
+        "account_number": "0590641748",
+        "balance": 0
+    },
+    {
+        "name": "Aman Kumar",
+        "age": 23,
+        "email": "aman@gmail.com",
+        "pin": 1234,
+        "account_number": "25@9z;xd3",
+        "balance": 0
+    }
+]
